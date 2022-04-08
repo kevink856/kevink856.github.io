@@ -9,3 +9,5 @@ owner:
   avatar: /images/avatar.png
   bio: Undergraduate Math-CS Student at University of California - San Diego
   description: Undergraduate Math-CS Student at University of California - San Diego
+
+repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
