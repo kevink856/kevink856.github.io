@@ -2,4 +2,4 @@
 
 ---
 
-This will be my personal website!
+There will be blogs here!
