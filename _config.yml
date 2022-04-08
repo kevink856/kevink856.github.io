@@ -1,12 +1,14 @@
 theme: jekyll-theme-minimal
 
-title: Personal Website of Kevin Kim
-
+title: Kyoomin Kim
+logo: /images/avatar.png
+locale: en_US
 
 owner:
   name: Kyoomin Kim
-  avatar: avatar.png
+  avatar: /images/avatar.png
   bio: "Undergraduate Math-CS Student as University of California - San Diego"
+  description: "a"
   email: kyk011@ucsd.edu
   linkedin: kevink856
   github: kevink856
