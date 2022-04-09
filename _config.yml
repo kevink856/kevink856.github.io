@@ -10,4 +10,10 @@ owner:
   bio: Undergraduate Math-CS Student at University of California - San Diego
   description: Undergraduate Math-CS Student at University of California - San Diego
 
-repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository: kevink856/kevink856.github.io
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light"
+    issue_term: "pathname"
+    label: "Blog comment"
