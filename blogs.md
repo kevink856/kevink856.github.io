@@ -2,5 +2,13 @@
 
 ---
 
-## [4/8/22 - Blog #1](posts/2022-04-08-labreport2)
+## [4/22/22 - Blog #2](posts/2022-04-22-labreport2)
+*A discussion on incremental development and debugging*
+
+![Blog 2 Thumbnail](/images/blog_images/blog_02/debugging.png)
+
+
+## [4/8/22 - Blog #1](posts/2022-04-08-labreport1)
 *Tutorial for incoming students on using the CSE 15L specific account on `ieng6`*
+
+![Blog 1 Thumbnail](/images/blog_images/blog_01/ssh.png)
