@@ -2,7 +2,7 @@
 
 ---
 
-## [4/22/22 - Blog #2](posts/2022-04-22-labreport2)
+## [5/02/22 - Blog #2](posts/2022-05-02-labreport2)
 *A discussion on the process of debugging, and respective details on incremental development and testing*
 
 ![Blog 2 Thumbnail](/images/blog_images/blog_02/debugging.png)
