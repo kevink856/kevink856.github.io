@@ -2,6 +2,11 @@
 
 ---
 
+## [5/09/22 - Blog #3](posts/2022-05-09-labreport3)
+*Tutorial on using SSH remote systems more effectively, including the CSE 15L specific account on `ieng6`*
+
+![Blog 3 Thumbnail](/images/blog_images/blog_03/zzz.png)
+
 ## [5/02/22 - Blog #2](posts/2022-05-02-labreport2)
 *A discussion on the process of debugging, and respective details on incremental development and testing*
 
