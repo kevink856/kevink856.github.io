@@ -2,7 +2,7 @@
 
 ---
 
-## [5/09/22 - Blog #3](posts/2022-05-09-labreport3)
+## [5/10/22 - Blog #3](posts/2022-05-10-labreport3)
 *Tutorial on using SSH remote systems more effectively, including the CSE 15L specific account on `ieng6`*
 
 ![Blog 3 Thumbnail](/images/blog_images/blog_03/efficiency.png)
