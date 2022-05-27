@@ -1,6 +1,10 @@
 ## [Home](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Blogs](/blogs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Information](/information)
 
 ---
+## [5/27/22 - Blog #4](posts/2022-05-27-labreport4)
+*A discussion on applying the process of debugging in an efficient behavior to speed up development, particularly for the project, "Markdown-Parser"*
+
+![Blog 4 Thumbnail](/images/blog_images/blog_04/debugging-visual.png)
 
 ## [5/10/22 - Blog #3](posts/2022-05-10-labreport3)
 *Tutorial on using SSH remote systems more effectively, including the CSE 15L specific account on `ieng6`*
