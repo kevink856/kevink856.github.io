@@ -1,7 +1,7 @@
 ## [Home](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Blogs](/blogs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Information](/information)
 
 ---
-## [6/01/22 - Blog #5](posts/2022-06/01-labreport5)
+## [6/01/22 - Blog #5](posts/2022-06-01-labreport5)
 *A discussion on applying the process of debugging to compare two different implementations of a project, particularly in the case of "Markdown-Parser"*
 
 ![Blog 5 Thumbnail](/images/blog_images/blog_05/debug.png)
