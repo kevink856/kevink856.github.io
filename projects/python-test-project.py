@@ -32,6 +32,27 @@ print(str[5:] == expected)
 expected = "g"
 print(str[-1] == expected)
 
+# * Formatting:
+str = "Language: {}, Version: {}"
+print(str.format("Python", 1.0))
+
+str = "Language: {4}, Version: {2}, Build Version: {1}, Title: {0}, Author: {3}"
+print(str.format("Python Project", 3, 1.0, "Kevin Kim", "Python"))
+
+'''
+Escape char.'s:
+\' 	    Single Quote 	
+\\ 	    Backslash 	
+\n 	    New Line 	
+\r 	    Carriage Return 	
+\t 	    Tab 	
+\b 	    Backspace 	
+\f 	    Form Feed 	
+\ooo 	Octal value 	
+\xhh 	Hex value
+'''
+
+
 # -------------------------------------------------------------------------
 
 #Unpacking a list:
