@@ -32,28 +32,46 @@ print(str[5:] == expected)
 expected = "g"
 print(str[-1] == expected)
 
-# * Formatting:
+#Formatting:
 str = "Language: {}, Version: {}"
 print(str.format("Python", 1.0))
 
 str = "Language: {4}, Version: {2}, Build Version: {1}, Title: {0}, Author: {3}"
 print(str.format("Python Project", 3, 1.0, "Kevin Kim", "Python"))
 
-'''
+"""
 Escape char.'s:
-\' 	    Single Quote 	
-\\ 	    Backslash 	
-\n 	    New Line 	
-\r 	    Carriage Return 	
-\t 	    Tab 	
-\b 	    Backspace 	
-\f 	    Form Feed 	
-\ooo 	Octal value 	
-\xhh 	Hex value
-'''
-
+' 	    Single Quote 	
+\ 	    Backslash 	
+n 	    New Line 	
+r 	    Carriage Return 	
+t 	    Tab 	
+b 	    Backspace 	
+f 	    Form Feed 	
+ooo 	Octal value 	
+xhh 	Hex value
+"""
 
 # -------------------------------------------------------------------------
+
+"""
+Operators:
++ 	Addition	
+- 	Subtraction
+* 	Multiplication
+/ 	Division
+% 	Modulus
+** 	Exponentiation
+//  Floor Division
+"""
+
+#Built-in Collections: List, Tuple, Set, Dict
+
+# --------------------------------- Lists ---------------------------------
+
+# List: Ordered, Changeable, Duplicates
+example_list = [0, 1, 2]
+example_list = list((0, 1, 2))
 
 #Unpacking a list:
 example_list = [4, 2, 1]
@@ -64,3 +82,41 @@ printList(variable_list)
 
 print("Type of x is:")
 print(type(x))
+
+print((0 in example_list))
+print((1 in example_list))
+
+example_list.insert(1, 10)
+print(10 == example_list[1] and 2 == example_list[2])
+
+another_collection = (4, 1)
+example_list.extend(another_collection)
+[print(x, end=" ") for x in example_list]
+
+example_list = ["Jason", "Mason", "Kevin"]
+only_a = [x for x in example_list if "a" in x] # newlist = [expression for item in iterable if condition == True]
+print(only_a)
+
+#Sorting:
+example_list = [4, 1, 0, 9, 9, 2, 5, 2]
+example_list.sort()
+print(example_list)
+example_list.sort(reverse = True)
+print(example_list)
+
+def customSort(n): # Sorts based on Even & Added order
+    return n%2
+
+example_list = [4, 1, 0, 9, 9, 2, 5, 2]
+example_list.sort(key = customSort)
+print(example_list)
+
+# -------------------------------------------------------------------------
+
+
+# --------------------------------- Tuple ---------------------------------
+
+# Tuples: Ordered, Unchangeable, Duplicates
+
+
+# -------------------------------------------------------------------------
