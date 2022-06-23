@@ -14,9 +14,12 @@ p {
     margin: 10px;
 }
 
-table, th, td{
+table{
     background-color:white;
     border-collapse: collapse;
+}
+
+th, td {
     border: 2px solid gray;
     padding: 5px;
 }
@@ -25,7 +28,7 @@ tr:nth-child(even) {
     background-color:lightgray;
 }
 
-tr:hover {
+td:hover {
     background-color:lightcyan;
 }
 
