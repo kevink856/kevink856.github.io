@@ -1,10 +1,17 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
+<head>
+    <title>Kevin's Test HTML Project</title>
+    <link rel="icon" type="image/x-icon" href="black_square.png">
+    <link rel="stylesheet" href="data/styles.css">
+</head>
+
+
 <!-- Contents within <body> are what is visible on the webpage -->
 <!-- this is also how you comments < ! - -  wrapped in - - >   -->
 
-<body style="background-color:seashell;">
+<body>
 <form action="https://kevink856.github.io/webprojects">
     <button type="submit"><b>Return to the Home Page</b></button>
 </form>
@@ -29,12 +36,21 @@ And this is a <a href="https://kevink856.github.io/">link</a> to my website!
 <!-- The Alternative text attribute will show a text in case the image cannot be shown -->
 <img src="dog.png" alt="Dog" width="200" height="200">
 <img src="fakepath.jpg" alt="You should see this text - Image failed to load" width="50" height="50">
+<a href="../webprojects.md" onclick="testFunc()">
+    <img src="black_square.png" alt="Failed to load" style="width:200;height:200;">
+</a>
+
+<script>
+    function testFunc() {
+        alert("You clicked the black square");
+    }
+</script>
 
 <!-- The style attribute may add color, font, size, etc. -->
 <p style="color:red;">This is a red paragraph!</p> 
 
 <p title="Visible tooltip when you hover this text">Put your mouse over me!</p>
-<p title='Can also use single quotes if you "need" to use double quotes in the attribute (or vice versa)'>Hover me another tip!</p>
+<p title='Can also use single quotes if you "need" to use double quotes in the attribute (or vice versa)'>Hover me for another tip!</p>
 
 <!-- Note: "100" and "100px" are different sizes, where "100" is relative and "100px" is absolute
     Also note: each attribute that has a parameter value with a ":" colon ends in a ";" semi-colon -->
@@ -52,6 +68,60 @@ And this is a <a href="https://kevink856.github.io/">link</a> to my website!
 
     Line breaks / whitespaces are preserved.
 </pre>
+
+<a href="#Bookmark1"> Click to goto Bookmark 1</a>
+
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    down here.
+</pre>
+<h1 id="Bookmark1">Bookmark Destination</h1>
+
+<p>Here is a table:</p>
+<table style="width:20%; text-align:center;">
+    <caption>Letter Counts</caption>
+    <tr>
+        <th style="width:auto" colspan="2">Word</th>
+        <th style="width:auto;">Letter Count</th>
+    </tr>
+    <tr>
+        <td>Example</td>
+        <td>Another</td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <td>Longerword</td>
+        <td>Justaslong</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>Short</td>
+        <td>Words</td>
+        <td>5</td>
+    </tr>
+</table>
 
 </body>
 

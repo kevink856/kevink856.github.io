@@ -1,0 +1,39 @@
+body {
+    background-color:seashell;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: darkslategray;
+    padding: 5px;
+    display: inline;   
+}
+
+p {
+    color: black;
+    margin: 10px;
+}
+
+table, th, td{
+    background-color:white;
+    border-collapse: collapse;
+    border: 2px solid gray;
+    padding: 5px;
+}
+
+tr:nth-child(even) {
+    background-color:lightgray;
+}
+
+tr:hover {
+    background-color:lightcyan;
+}
+
+caption {
+    text-align: center;
+    font-weight: bold;
+    background-color:white;
+    border-collapse: collapse;
+    border: 2px solid gray;
+    padding: 5px;
+}
