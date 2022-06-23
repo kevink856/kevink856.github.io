@@ -1,4 +1,4 @@
-## [Home](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Blogs](/blogs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Information](/information)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Web Projects](/webprojects)
+## [Home](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Blogs](/blogs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Information](/information)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 

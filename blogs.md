@@ -1,4 +1,4 @@
-## [Home](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Blogs](/blogs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Information](/information)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Web Projects](/webprojects)
+## [Home](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Blogs](/blogs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Information](/information)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 ## [6/01/22 - Blog #5](posts/2022-06-01-labreport5)
