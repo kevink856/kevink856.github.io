@@ -14,7 +14,12 @@ p {
     margin: 10px;
 }
 
-table{
+.extrabig {
+    font-size:5vw;
+    font-weight: bold;
+}
+
+table {
     background-color:white;
     border-collapse: collapse;
 }

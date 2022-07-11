@@ -5,6 +5,8 @@
     <title>Kevin's Test HTML Project</title>
     <link rel="icon" type="image/x-icon" href="black_square.png">
     <link rel="stylesheet" href="data/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
 </head>
 
 
@@ -36,7 +38,7 @@
     <!-- The Alternative text attribute will show a text in case the image cannot be shown -->
     <img src="dog.png" alt="Dog" width="200" height="200">
     <img src="fakepath.jpg" alt="You should see this text - Image failed to load" width="50" height="50">
-    <a href="../webprojects.md" onclick="testFunc()">
+    <a href="../webprojects.md" onclick="testFunc()" id="clickablePicture">
         <img src="black_square.png" alt="Failed to load" style="width:200;height:200;">
     </a>
 
@@ -47,7 +49,7 @@
     </script>
 
     <!-- The style attribute may add color, font, size, etc. -->
-    <p style="color:red;">This is a red paragraph!</p>
+    <p style="color:red;">This is a <span style="color:darkred">red</style> paragraph!</p>
 
     <p title="Visible tooltip when you hover this text">Put your mouse over me!</p>
     <p title='Can also use single quotes if you "need" to use double quotes in the attribute (or vice versa)'>Hover me
@@ -55,7 +57,20 @@
 
     <!-- Note: "100" and "100px" are different sizes, where "100" is relative and "100px" is absolute
     Also note: each attribute that has a parameter value with a ":" colon ends in a ";" semi-colon -->
-    <h1 style="font-size:100px;">Custom Huge Heading!!!</h1>
+    <h1 class="extrabig">Custom Huge Heading!!!</h1>
+
+    <div>
+        <button type="submit" onclick="hideHeading()"><b>Click to hide the huge heading</b></button>
+    </div>
+
+    <script>
+        function hideHeading() {
+            var extrabig_elements = document.getElementsByClassName("extrabig");
+            for (var i = 0; i < extrabig_elements.length; i++) {
+                extrabig_elements[i].style.display = "none";
+            }
+        }
+    </script>
 
     <p>Look at this:</p>
     <!-- Note: <hr> is a "Horizontal Rule" -->

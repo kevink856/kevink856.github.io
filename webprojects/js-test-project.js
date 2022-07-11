@@ -1,0 +1,1 @@
+document.getElementById("clickablePicture").style.display = "none";
