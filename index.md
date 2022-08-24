@@ -1,4 +1,4 @@
-## [Home](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Blogs](/blogs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Information](/information)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## [Home](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](/projects.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Blogs](/blogs.md)
 
 ---
 
