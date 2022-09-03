@@ -6,7 +6,6 @@
 
 Hi, I'm Kevin! I'm a sophomore undergraduate student at [UC San Diego](https://www.ucsd.edu/) studying [Math-CS](https://mathematics.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s). When I'm not spending my time on my personal life or with friends, I self-learn concepts in computer science or create projects to practice them. My passion is game development, so my goal is to eventually develop a game of my own or join a team as a developer. Follow my journey or contact me through the sidebar!
 
-&nbsp;
 <div style="font-size: 25px"><strong>Experience</strong></div>
 
 Over the years, I have learned many concepts and programming languages in different areas of computer science. My first and most familiar language is Java, with which I:
@@ -37,7 +36,6 @@ My latest and biggest project is [**Recall**](https://github.com/kevink856/Recal
 
 I thoroughly enjoyed working on every single project, even smaller ones not listed here or projects for school. Learning new things in the vast field of computer science is always exciting and I can't wait to work on a new project!
 
-&nbsp;
 <div style="font-size: 25px"><strong>Education</strong></div>
 
 I attend the University of California - San Diego, pursuing a Bachelor of Science degree in Mathematics. My major is "Mathematics - Computer Science", which is a mathematics degree with a specialization on theoretical computer science. I am a sophomore with junior standing with a GPA or 3.63/4.00, and I expect to graduate on **June, 2025**.
