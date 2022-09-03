@@ -3,13 +3,11 @@
 ---
 
 <div style="font-size: 25px"><strong>About</strong></div>
-&nbsp;
 
 Hi, I'm Kevin! I'm a sophomore undergraduate student at [UC San Diego](https://www.ucsd.edu/) studying [Math-CS](https://mathematics.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s). When I'm not spending my time on my personal life or with friends, I self-learn concepts in computer science or create projects to practice them. My passion is game development, so my goal is to eventually develop a game of my own or join a team as a developer. Follow my journey or contact me through the sidebar!
 
 &nbsp;
 <div style="font-size: 25px"><strong>Experience</strong></div>
-&nbsp;
 
 Over the years, I have learned many concepts and programming languages in different areas of computer science. My first and most familiar language is Java, with which I:
 * Taught and tutored hundreds of elementary - high school students
@@ -41,7 +39,6 @@ I thoroughly enjoyed working on every single project, even smaller ones not list
 
 &nbsp;
 <div style="font-size: 25px"><strong>Education</strong></div>
-&nbsp;
 
 I attend the University of California - San Diego, pursuing a Bachelor of Science degree in Mathematics. My major is "Mathematics - Computer Science", which is a mathematics degree with a specialization on theoretical computer science. I am a sophomore with junior standing with a GPA or 3.63/4.00, and I expect to graduate on **June, 2025**.
 
@@ -49,7 +46,7 @@ You can find my resume [here](./data/index/Kim_Kyoomin_Resume.pdf), my academic 
 
 Below is a list of all relevant coursework I've taken:
 
-<a href="https://catalog.ucsd.edu/courses/CSE.html"><div style="font-size: 17px"><strong>Computer Science</strong></div></a>
+<div style="font-size: 17px"><a href="https://catalog.ucsd.edu/courses/CSE.html"><strong>Computer Science</strong></a></div>
 
 * **CSE 11** - Accelerated Intro to Programming [4.0]
 * **CSE 12** - Basic Data Structures & Object-Oriented Design [4.0]
@@ -57,7 +54,8 @@ Below is a list of all relevant coursework I've taken:
 * **CSE 20** - Discrete Mathematics [N/A]
 * **CSE 30** - Computer Organization and Systems Programming [N/A]
 
-<a href="https://catalog.ucsd.edu/courses/MATH.html"><div style="font-size: 17px"><strong>Mathematics</strong></div></a>
+<div style="font-size: 17px"><a href="https://catalog.ucsd.edu/courses/
+MATH.html"><strong>Mathematics</strong></a></div>
 
 * **MATH 20B** - Calculus for Science and Engineering [3.0]
 * **MATH 18** - Linear Algebra [2.7]
