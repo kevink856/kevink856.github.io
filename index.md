@@ -29,7 +29,7 @@ Since then, I've learned several other programming languages that I frequently u
 
 > *Java, JavaScript, HTML5, CSS3, Python, C, C++, SQL, Bash, MATLAB*
 
-My latest and biggest project is [**Recall**](https://github.com/kevink856/RecallBot), which is a Discord bot that listens to messages on a Discord server, parses them, and stores them in an SQL database. I also made a website that has documentation on its features and more (WIP). Through this project, I learned:
+My latest and biggest project is [Recall](https://github.com/kevink856/RecallBot), which is a Discord bot that listens to messages on a Discord server, parses them, and stores them in an SQL database. I also made a website that has documentation on its features and more (WIP). Through this project, I learned:
 * JavaScript, Node.js, Discord.js, HTML+CSS
 * How to use the Discord.js and SQLite3 API
 * Integration Testing and SQL safety
