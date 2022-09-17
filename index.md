@@ -14,9 +14,9 @@ Over the years, I have learned many concepts and programming languages in differ
 * Learned Object-Oriented Programming
 
 and created several projects:
-* [Graphical Sort](https://replit.com/@kevink856/Actual-Graphical-Sort?v=1) ([file](./data/index/Main.java)).
+* [Graphical Sort](https://github.com/kevink856/GraphicalSort)
 	* Learned how to use Java's AWT and Swing API's for graphics
-	* Learned how to hard code sorting algo's into graphical components
+	* Learned how to hard code sorting algorithms into graphical components
 	* Learned action / event listeners
 * [Markdown Parser](https://github.com/kevink856/markdown-parser)
 	* Learned Unit and Functional Testing
