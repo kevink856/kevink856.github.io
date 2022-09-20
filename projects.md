@@ -10,5 +10,5 @@
 ## [Markdown Parser](https://github.com/kevink856/markdown-parser)
 *A parser that scrapes links from markdown files*
 
-## [Graphical Sort](https://replit.com/@kevink856/Actual-Graphical-Sort?v=1)
+## [Graphical Sort](https://github.com/kevink856/GraphicalSort)
 *A graphical representation of sorting algorithms applied to a list*
