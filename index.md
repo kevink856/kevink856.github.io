@@ -48,14 +48,18 @@ Below is a list of all relevant coursework I've taken:
 
 * **CSE 11** - Accelerated Intro to Programming [4.0]
 * **CSE 12** - Basic Data Structures & Object-Oriented Design [4.0]
-* **CSE 15L** - Software Tools and Techniques Lab [3.7]
-* **CSE 20** - Discrete Mathematics [N/A]
-* **CSE 30** - Computer Organization and Systems Programming [N/A]
+* **CSE 15L** - Software Tools & Techniques Lab [3.7]
+* **CSE 20** - Discrete Mathematics [3.3]
+* **CSE 21** - Mathematics for Algorithms & Systems [N/A]
+* **CSE 30** - Computer Organization & Systems Programming [4.0]
+* **CSE 100** - Advanced Data Structures [N/A]
+* **CSE 105** - Theory of Computation [N/A]
 
 <div style="font-size: 17px"><a href="https://catalog.ucsd.edu/courses/
 MATH.html"><strong>Mathematics</strong></a></div>
 
-* **MATH 20B** - Calculus for Science and Engineering [3.0]
 * **MATH 18** - Linear Algebra [2.7]
-* **MATH 20C** - Calculus and Analytic Geometry [4.0]
+* **MATH 20B** - Calculus for Science & Engineering [3.0]
+* **MATH 20C** - Calculus & Analytic Geometry [4.0]
 * **MATH 20D** - Intro to Differential Equations [3.7]
+* **MATH 183** - Statistical Methods [3.3]
