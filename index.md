@@ -50,7 +50,7 @@ Below is a list of all relevant coursework I've taken:
 * **CSE 12** - Basic Data Structures & Object-Oriented Design [4.0]
 * **CSE 15L** - Software Tools & Techniques Lab [3.7]
 * **CSE 20** - Discrete Mathematics [3.3]
-* **CSE 21** - Mathematics for Algorithms & Systems [N/A]
+* **CSE 21** - Mathematics for Algorithms & Systems [4.0]
 * **CSE 30** - Computer Organization & Systems Programming [4.0]
 * **CSE 100** - Advanced Data Structures [N/A]
 * **CSE 105** - Theory of Computation [N/A]
