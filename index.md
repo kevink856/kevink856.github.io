@@ -4,7 +4,7 @@
 
 <div style="font-size: 25px; color: #267CB9"><strong>About</strong></div>
 
-Hi, I'm Kevin! I'm a sophomore undergraduate student at [UC San Diego](https://www.ucsd.edu/) studying [Math-CS](https://mathematics.ucsd.edu/students/undergraduate/ma30-math-computer-science-b-s). When I'm not spending my time on my personal life or with friends, I self-learn concepts in computer science or create projects to practice them. My passion is game development, so my goal is to eventually develop a game of my own or join a team as a developer. Follow my journey or contact me through the sidebar!
+Hi, I'm Kevin! I'm a junior undergraduate student at [UC San Diego](https://www.ucsd.edu/) studying [Computer Science](https://catalog.ucsd.edu/curric/CSE-ug.html). When I'm not spending my time on my personal life, with friends, or on school, I self-learn concepts in computer science or create projects to practice them. My biggest passion is game development, so my goal is to eventually develop a game of my own or join a team as a developer. Follow my journey or contact me through the sidebar!
 
 <div style="font-size: 25px; color: #267CB9"><strong>Experience</strong></div>
 
@@ -38,9 +38,9 @@ I thoroughly enjoyed working on every single project, even smaller ones not list
 
 <div style="font-size: 25px; color: #267CB9"><strong>Education</strong></div>
 
-I attend the University of California - San Diego, pursuing a Bachelor of Science degree in Mathematics. My major is "Mathematics - Computer Science", which is a mathematics degree with a specialization on theoretical computer science. I am a sophomore with junior standing with a GPA or 3.63/4.00, and I expect to graduate on **June, 2025**.
+I attend the University of California - San Diego, pursuing a Bachelor of Science degree in Computer Science. I am a junior with senior standing with a GPA or 3.66/4.00, and I expect to graduate on **June, 2025**.
 
-You can find my resume [here](./data/index/Kim_Kyoomin_Resume.pdf), my academic history [here](./data/index/academichistoryreviewpdf.pdf), and my major requirements [here](https://math.ucsd.edu/sites/math.ucsd.edu/files/img/undergrad-handbook/21-22-MA30.png).
+You can find my resume [here](./data/index/Kim_Kyoomin_Resume.pdf), my academic history [here](./data/index/academichistoryreviewpdf.pdf), and my major requirements [here](https://cse.ucsd.edu/sites/cse.ucsd.edu/files/CS26%20FA22%20Checklist.docx%20(2)_1.pdf).
 
 Below is a list of all relevant coursework I've taken:
 
@@ -54,12 +54,3 @@ Below is a list of all relevant coursework I've taken:
 * **CSE 30** - Computer Organization & Systems Programming [4.0]
 * **CSE 100** - Advanced Data Structures [N/A]
 * **CSE 105** - Theory of Computation [N/A]
-
-<div style="font-size: 17px"><a href="https://catalog.ucsd.edu/courses/
-MATH.html"><strong>Mathematics</strong></a></div>
-
-* **MATH 18** - Linear Algebra [2.7]
-* **MATH 20B** - Calculus for Science & Engineering [3.0]
-* **MATH 20C** - Calculus & Analytic Geometry [4.0]
-* **MATH 20D** - Intro to Differential Equations [3.7]
-* **MATH 183** - Statistical Methods [3.3]
