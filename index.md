@@ -40,7 +40,7 @@ I thoroughly enjoyed working on every single project, even smaller ones not list
 
 I attend the University of California - San Diego, pursuing a Bachelor of Science degree in Computer Science. I am a junior with senior standing with a GPA or 3.66/4.00, and I expect to graduate on **June, 2025**.
 
-You can find my resume [here](./data/index/Kim_Kyoomin_Resume.pdf), my academic history [here](./data/index/academichistoryreviewpdf.pdf), and my major requirements [here](https://cse.ucsd.edu/sites/cse.ucsd.edu/files/CS26%20FA22%20Checklist.docx%20(2)_1.pdf).
+You can find my resume [here](./data/index/Kyoomin_Kim_Resume.pdf), and my academic history [here](./data/index/academichistoryreviewpdf.pdf).
 
 Below is a list of all relevant coursework I've taken:
 
