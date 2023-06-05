@@ -53,4 +53,8 @@ Below is a list of all relevant coursework I've taken:
 * **CSE 21** - Mathematics for Algorithms & Systems [4.0]
 * **CSE 30** - Computer Organization & Systems Programming [4.0]
 * **CSE 100** - Advanced Data Structures [N/A]
+* **CSE 101** - Design & Analysis of Algorithms [N/A]
 * **CSE 105** - Theory of Computation [N/A]
+* **CSE 110** - Software Engineering [N/A]
+* **CSE 140** - Components & Design Techniques for Digital Systems [N/A]
+* **CSE 140L** - Digital Systems Laboratory [N/A]
