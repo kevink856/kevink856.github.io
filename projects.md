@@ -1,11 +1,17 @@
 ## [Home](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](/projects.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Blogs](/blogs.md)
 
 ---
-## [Recall - Discord Bot (Website)](https://kevink856.github.io/RecallWebsite/)
-*A website containing information about the Discord bot Recall*
+## [communifyy (Web Application)](https://kevink856.github.io/communifyy/)
+*Web application that compares user's Spotify stats with other users*
+
+## [communifyy (Server)](https://kevink856.github.io/communifyy-server/)
+*Server files to deploy REST API that serves communifyy*
 
 ## [Recall - Discord Bot](https://github.com/kevink856/RecallBot)
 *A Discord logging bot that makes message history easy and accessible*
+
+## [Recall - Discord Bot (Website)](https://kevink856.github.io/RecallWebsite/)
+*A website containing information about the Discord bot Recall*
 
 ## [Markdown Parser](https://github.com/kevink856/markdown-parser)
 *A parser that scrapes links from markdown files*
