@@ -22,19 +22,10 @@ and created several projects:
 	* Learned Unit and Functional Testing
 	* Learned other concepts of SDLC like CI/CD
 	* Learned Bash scripting and Makefile
+ * 
+Since then, I've learned several other programming languages that I frequently use and practice with.
 
-Eventually, my second language was Python, as it was easy to learn and similar to Java in many aspects. Using Python, I created this *earlier* version of a [Graphical Sort](https://replit.com/@kevink856/sortingdisplay?v=1) ([file](./data/index/main.py)) that incorporates animation.
-
-Since then, I've learned several other programming languages that I frequently use and practice with. Here is a list of all languages I've learned and used:
-
-> *Java, JavaScript, HTML5, CSS3, Python, C, C++, SQL, Bash, MATLAB*
-
-My latest and biggest project is [Recall](https://github.com/kevink856/RecallBot), which is a Discord bot that listens to messages on a Discord server, parses them, and stores them in an SQL database. I also made a website that has documentation on its features and more (WIP). Through this project, I learned:
-* JavaScript, Node.js, Discord.js, HTML+CSS
-* How to use the Discord.js and SQLite3 API
-* Integration Testing and SQL safety
-
-I thoroughly enjoyed working on every single project, even smaller ones not listed here or projects for school. Learning new things in the vast field of computer science is always exciting and I can't wait to work on a new project!
+I thoroughly enjoyed working on every single project, even smaller ones not listed here or projects for school. Learning new things in the vast field of computer science is always exciting and you can find me always working on a new thing.
 
 <div style="font-size: 25px; color: #267CB9"><strong>Education</strong></div>
 
