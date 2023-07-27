@@ -1,6 +1,12 @@
 ## [Home](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](/projects.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Blogs](/blogs.md)
 
 ---
+## [StartLift (Web Application)](https://github.com/kevink856/StartLift/)
+*Mobile app designed to help users get started on working out*
+
+## [StartLift (Server)](https://github.com/kevink856/StartLift-server/)
+*Express server deployed serverlessly on AWS Lambda to provide REST API for communifyy app*
+
 ## [communifyy (Web Application)](https://github.com/kevink856/communifyy/)
 *Web application that compares user's Spotify stats with other users*
 
