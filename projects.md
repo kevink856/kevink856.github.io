@@ -1,7 +1,7 @@
 ## [Home](/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Projects](/projects.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Blogs](/blogs.md)
 
 ---
-## [StartLift (Web Application)](https://github.com/kevink856/StartLift/)
+## [StartLift (Mobile Application)](https://github.com/kevink856/StartLift/)
 *Mobile app designed to help users get started on working out*
 
 ## [StartLift (Server)](https://github.com/kevink856/StartLift-server/)
