@@ -29,7 +29,7 @@ I thoroughly enjoyed working on every single project, even smaller ones not list
 
 <div style="font-size: 25px; color: #267CB9"><strong>Education</strong></div>
 
-I attend the University of California - San Diego, pursuing a Bachelor of Science degree in Computer Science. I am a junior with senior standing with a GPA or 3.66/4.00, and I expect to graduate on **June, 2025**.
+I attend the University of California - San Diego, pursuing a Bachelor of Science degree in Computer Science. I am a junior with senior standing with a GPA or 3.70/4.00, and I expect to graduate on **June, 2025**.
 
 You can find my resume [here](./data/index/Kevin_Kim_Resume.pdf), and my academic history [here](./data/index/academichistoryreviewpdf.pdf).
 
