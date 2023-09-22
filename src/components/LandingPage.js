@@ -2,9 +2,9 @@
 import '../styles/LandingPage.css';
 
 import Home from './Home.js';
-import About from './About.js';
-import Experience from './Experience.js';
-import Projects from './Projects.js';
+// import About from './About.js';
+// import Experience from './Experience.js';
+// import Projects from './Projects.js';
 
 function LandingPage() {
   return (
