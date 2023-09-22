@@ -1,5 +1,5 @@
 .main {
-	font-size: 50px;
+	font-size: calc(35px + 2vw);
 	text-align: left;
 	position: absolute;
 	left: 15%;

@@ -3,7 +3,7 @@ import '../styles/About.css';
 function About() {
 	return(
 		<p>
-			hi
+			About Me
 		</p>
 	);
 }

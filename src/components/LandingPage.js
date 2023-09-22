@@ -2,7 +2,7 @@
 import '../styles/LandingPage.css';
 
 import Home from './Home.js';
-// import About from './About.js';
+import About from './About.js';
 // import Experience from './Experience.js';
 // import Projects from './Projects.js';
 
@@ -26,10 +26,10 @@ function LandingPage() {
       <section id="home" className="homeContent">
         <Home />
       </section>
-      {/* <section id="about" className="homeContent">
+      <section id="about" className="homeContent">
         <About />
       </section>
-      <section id="experience" className="homeContent">
+      {/*<section id="experience" className="homeContent">
         <Experience />
       </section>
       <section id="projects" className="homeContent">
