@@ -6,12 +6,14 @@ import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa';
 
 function Home() {
 	return(
-		<div class='main'>
+		<div className='main'>
 			<span>
 				Hi,<br/>I'm&nbsp;
 			</span>
 			<TypeAnimation
 				sequence={[
+					'',
+					1000,
 					// Same substring at the start will only be typed out once, initially
 					'Kevin.',
 					2000, // wait 1s before replacing "Mice" with "Hamsters"

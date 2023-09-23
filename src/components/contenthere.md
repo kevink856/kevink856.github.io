@@ -31,7 +31,7 @@ I thoroughly enjoyed working on every single project, even smaller ones not list
 
 I attend the University of California - San Diego, pursuing a Bachelor of Science degree in Computer Science. I am a junior with senior standing with a GPA or 3.70/4.00, and I expect to graduate on **June, 2025**.
 
-You can find my resume [here](./data/index/Kevin_Kim_Resume.pdf), and my academic history [here](./data/index/academichistoryreviewpdf.pdf).
+You can find my resume [here](../data/Kevin_Kim_Resume.pdf), and my academic history [here](./data/index/academichistoryreviewpdf.pdf).
 
 Below is a list of all relevant coursework I've taken:
 
@@ -47,5 +47,4 @@ Below is a list of all relevant coursework I've taken:
 * **CSE 101** - Design & Analysis of Algorithms [N/A]
 * **CSE 105** - Theory of Computation [3.7]
 * **CSE 110** - Software Engineering [N/A]
-* **CSE 140** - Components & Design Techniques for Digital Systems [N/A]
-* **CSE 140L** - Digital Systems Laboratory [N/A]
+* **CSE 130** - Programming Languages

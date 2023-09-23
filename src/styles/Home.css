@@ -1,6 +1,7 @@
 .main {
 	font-size: calc(35px + 2vw);
 	text-align: left;
+	align-items: center;
 	position: absolute;
 	left: 15%;
 }
