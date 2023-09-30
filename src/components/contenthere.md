@@ -47,4 +47,4 @@ Below is a list of all relevant coursework I've taken:
 * **CSE 101** - Design & Analysis of Algorithms [N/A]
 * **CSE 105** - Theory of Computation [3.7]
 * **CSE 110** - Software Engineering [N/A]
-* **CSE 130** - Programming Languages
+* **CSE 130** - Programming Languages [N/A]
