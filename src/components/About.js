@@ -6,6 +6,7 @@ import { FaBars } from 'react-icons/fa';
 
 import Portrait from '../images/portrait.png';
 import Coursework from '../data/coursework.js';
+import GPA from '../data/gpa.json';
 
 function About() {
     const [dropped, setDropped] = useState(false);
@@ -49,86 +50,35 @@ function About() {
                             Key Courses
                         </button>
                         <div id='dropdown-content'>
-                            <p className='dropdown-gpa' style={{ marginTop: '20px' }}>
+                            <p className='dropdown-gpa'>
                                 <p className='dropdown-gpa-overall'>
                                     GPA:
                                     <span className='dropdown-gpa-grade'>
-                                        &nbsp;3.70
+                                        &nbsp;{GPA.overall}
                                     </span>
                                 </p>
                                 <p className='dropdown-gpa-major'>
                                     Major GPA:
                                     <span className='dropdown-gpa-grade'>
-                                        &nbsp;3.70
+                                        &nbsp;{GPA.major}
                                     </span>
                                 </p>
                             </p>
-                            <p className='dropdown-item'>
-                                <span className='dropdown-item-code'>
-                                    [CSE 130]
-                                </span>
-                                <span className='dropdown-item-title'>
-                                    &nbsp;Programming Languages:
-                                </span>
-                                <span className='dropdown-item-grade'>
-                                    &nbsp;N/A
-                                </span>
-                            </p>
-                            <p className='dropdown-item'>
-                                <span className='dropdown-item-code'>
-                                    [CSE 110]
-                                </span>
-                                <span className='dropdown-item-title'>
-                                    &nbsp;Software Engineering:
-                                </span>
-                                <span className='dropdown-item-grade'>
-                                    &nbsp;N/A
-                                </span>
-                            </p>
-                            <p className='dropdown-item'>
-                                <span className='dropdown-item-code'>
-                                    [CSE 101]
-                                </span>
-                                <span className='dropdown-item-title'>
-                                    &nbsp;Algorithms:
-                                </span>
-                                <span className='dropdown-item-grade'>
-                                    &nbsp;N/A
-                                </span>
-                            </p>
-                            <p className='dropdown-item'>
-                                <span className='dropdown-item-code'>
-                                    [CSE 105]
-                                </span>
-                                <span className='dropdown-item-title'>
-                                    &nbsp;Theory of Computation:
-                                </span>
-                                <span className='dropdown-item-grade'>
-                                    &nbsp;A-
-                                </span>
-                            </p>
-                            <p className='dropdown-item'>
-                                <span className='dropdown-item-code'>
-                                    [CSE 100]
-                                </span>
-                                <span className='dropdown-item-title'>
-                                    &nbsp;Data Structures:
-                                </span>
-                                <span className='dropdown-item-grade'>
-                                    &nbsp;A+
-                                </span>
-                            </p>
-                            <p className='dropdown-item' style={{ marginBottom: '20px' }}>
-                                <span className='dropdown-item-code'>
-                                    [CSE 30]
-                                </span>
-                                <span className='dropdown-item-title'>
-                                    &nbsp;Systems Programming:
-                                </span>
-                                <span className='dropdown-item-grade'>
-                                    &nbsp;A+
-                                </span>
-                            </p>
+                            { Coursework.map(course => {
+                                return(
+                                    <p className='dropdown-item'>
+                                        <span className='dropdown-item-code'>
+                                            {course.code}
+                                        </span>
+                                        <span className='dropdown-item-title'>
+                                            &nbsp;{course.title}:
+                                        </span>
+                                        <span className='dropdown-item-grade'>
+                                            &nbsp;{course.grade}
+                                        </span>
+                                    </p>
+                                );
+                            }) }
                         </div>
                     </p>
 				</span>

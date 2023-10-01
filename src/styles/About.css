@@ -23,7 +23,7 @@
 	width: 250px;
 	height: 300px;
 	border-radius: 20px;
-	border: solid 3px rgb(192, 175, 255);
+	border: solid 3px rgb(20, 20, 20);
 }
 
 #portrait-container {
@@ -55,10 +55,11 @@
 }
 
 .dropdown-button {
+    font-family: 'Montserrat', sans-serif;
     display: flex;
     cursor: pointer;
     padding: 8px 16px;
-    border: 2px solid black;
+    border: 2px solid rgb(20, 20, 20);
     border-radius: 20px;
 	font-size: 18px;
 	font-weight: 500;
@@ -73,7 +74,7 @@
 
 #dropdown-content {
     transition: opacity 0.3s ease-out, max-height 0.8s ease-out;
-    border: solid 2px black;
+    border: solid 2px rgb(20, 20, 20);
     border-radius: 20px;
     overflow: hidden;
     max-height: 0;
@@ -82,12 +83,23 @@
     margin-top: 5px;
     background-color: rgb(236, 230, 255);
     font-size: 16px;
+    padding: 10px;
+}
+
+.dropdown-gpa {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 0;
+}
+
+.dropdown-gpa-grade {
+    font-weight: 600;
 }
 
 .dropdown-item {
     margin: 20px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 5px;
 }
 
 .dropdown-item-code {
