@@ -1,8 +1,11 @@
 import '../styles/About.css';
-import Portrait from '../images/portrait.png';
+
 import { Link } from 'react-router-dom';
 import { useState } from 'react';
 import { FaBars } from 'react-icons/fa';
+
+import Portrait from '../images/portrait.png';
+import Coursework from '../data/coursework.js';
 
 function About() {
     const [dropped, setDropped] = useState(false);
