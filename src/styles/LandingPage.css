@@ -23,13 +23,3 @@
 #about {
   background-image: linear-gradient(rgb(203, 189, 255) 1%, rgb(241, 241, 241));
 }
-
-a {
-  color: rgb(223, 223, 223);
-  text-decoration: none;
-  transition: color 0.3s ease;
-}
-
-a:hover {
-  color: rgb(170, 170, 170);
-}

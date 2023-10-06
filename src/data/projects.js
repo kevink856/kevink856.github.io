@@ -1,4 +1,4 @@
-const Projects = [
+const ProjectList = [
     {
         "title": "CSES WebDev Website",
         "stack": "ReactJS, Django, PostgreSQL, AWS (S3, RDS, CloudFormation)",
@@ -27,4 +27,4 @@ const Projects = [
     }
 ];
 
-export default Projects;
+export default ProjectList;

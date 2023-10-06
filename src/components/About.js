@@ -37,8 +37,8 @@ function About() {
                         graduate on June 2025.
 					</p>
 					<p className='about-section'>
-						Currently, I'm learning skills and technologies for AI/ML and
-						game development.
+						Currently, I'm learning skills and technologies for AI/ML,
+                        networks, graphics and game development.
 					</p>
 					<p className='about-section'>
 						Downloads: <Link className='download' to='Kevin_Kim_Resume.pdf' target='_blank' download>Resume</Link>,

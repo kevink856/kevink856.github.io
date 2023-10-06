@@ -32,6 +32,8 @@
 }
 
 .download {
+    text-decoration: none;
+    transition: all 0.2s ease-out;
 	color: rgb(88,80,236);
 }
 
@@ -123,5 +125,6 @@
     #text {
 		margin-top: 20px;
 	  	width: 80%;
+        font-size: 18px;
     }
 }
