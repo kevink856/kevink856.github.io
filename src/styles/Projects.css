@@ -4,6 +4,7 @@
     margin-bottom: 150px;
 }
 
+
 .subtext {
     font-size: 20px;
     margin-top: 50px;
@@ -86,7 +87,6 @@
 #text {
     display: flex;
     flex-direction: column;
-	margin-top: 50px;
 	text-align: left;
 	width: 65%;
     transition: all 0.2s ease;
@@ -95,7 +95,8 @@
 @media (max-width: 830px) {
     #text {
 		margin-top: 20px;
-	  	width: 80%;
+	  	width: 100%;
+        align-self: center;
     }
     .subtext {
         font-size: 16px;

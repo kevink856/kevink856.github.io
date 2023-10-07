@@ -9,7 +9,7 @@
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-	font-size: 22px;
+	font-size: 20px;
 	font-weight: 500;
 	gap: 2vw;
 	overflow-wrap: normal;
@@ -69,6 +69,7 @@
     gap: 5px;
     background-color: rgb(215, 204, 255);
     transition: all 0.3s ease;
+    color: rgb(20, 20, 20);
 }
 
 .dropdown-button:hover {
@@ -84,7 +85,7 @@
     opacity: 0;
     margin: 0;
     margin-top: 5px;
-    background-color: rgb(236, 230, 255);
+    background-image: linear-gradient(rgb(236, 230, 255) 35%, rgb(241, 241, 241));
     font-size: 16px;
     padding: 10px;
 }

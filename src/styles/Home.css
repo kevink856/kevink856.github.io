@@ -1,9 +1,17 @@
 .main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.home-main {
 	font-size: calc(35px + 2vw);
 	text-align: left;
-	align-items: center;
-	position: absolute;
+    position: absolute;
 	left: 15%;
+	align-items: center;
     transition: all 0.2s ease;
 }
 
@@ -17,4 +25,32 @@
 
 .socialIcons:hover {
 	color:rgb(59, 59, 59);
+}
+
+.home-arrow {
+    position: absolute;
+    left: 49vw;
+    bottom: 30px;
+    animation: home-arrow 2s infinite;
+}
+
+@keyframes home-arrow {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-10px);
+    }
+    60% {
+        transform: translateY(-10px);
+    }
+}
+
+@media (max-width: 830px) {
+    .home-main {
+        left: 10%;
+    }
+    .home-arrow {
+        left: 47vw;
+    }
 }
