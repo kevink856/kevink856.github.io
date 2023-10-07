@@ -26,13 +26,13 @@ function Home() {
 			/>
 			<div>
 				<IconContext.Provider value={{ className: "socialIcons" }}>
-					<Link to='https://github.com/kevink856'>
+					<Link to='https://github.com/kevink856' target="_blank">
 						<FaGithub size='1em' />
 					</Link>
-					<Link to='https://www.linkedin.com/in/kevink856'>
+					<Link to='https://www.linkedin.com/in/kevink856' target="_blank">
 						<FaLinkedin size='1em' />
 					</Link>
-					<Link to='mailto:kevink856@gmail.com'>
+					<Link to='mailto:kevink856@gmail.com' target="_blank">
 						<FaEnvelope />
 					</Link>
 				</IconContext.Provider>

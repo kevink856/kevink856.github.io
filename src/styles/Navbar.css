@@ -12,6 +12,7 @@
 	gap: 25px;
 	position: fixed;
 	z-index: 1000;
+    transition: all 0.2s ease;
 }
 
 .navbar-link {

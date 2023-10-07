@@ -4,6 +4,7 @@
 	align-items: center;
 	position: absolute;
 	left: 15%;
+    transition: all 0.2s ease;
 }
 
 .socialIcons {
