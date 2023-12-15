@@ -1,15 +1,24 @@
 const ExperienceList = [
     {
+        "title": "Systems Security Engineering Intern",
+        "company": "TrustThink",
+        "startDate": "Jan 2024",
+        "endDate": "June 2024",
+        "location": "San Diego, CA",
+        "points": [
+            "Incoming intern for Winter 2024 and Spring 2024"
+        ]
+    },
+    {
         "title": "Lead Software Engineer",
         "company": "UCSD CSES WebDev",
         "startDate": "Aug 2023",
         "endDate": "Present",
         "location": "La Jolla, CA",
         "points": [
-            "Supervising a team of 3 software engineers and 2 UX/UI designers to develop CSES WebDev's main website with React.js and a backend Python Lambda function using AWS S3, RDS and CloudFormation",
-            "Coordinating a proper SDLC process by seamlessly planning, designing, implementing, testing and releasing over 50 features over a structured timeline",
-            "Practicing quality assurance with a CI/CD pipeline by automating unit and integration testing, reviewing code or designs, and E2E testing before a new release",
-            "Maintaining documentation on over 20 processes and technologies to ensure smooth collaboration between all team members and efficient feature or fix implementations"
+            "Leading a team of 5 developers and designers for WebDev's website using React, Python and PostgreSQL",
+            "Ensuring security for AWS S3 and RDS services by configuring VPC subnets to internal dev and prod scopes",
+            "Reducing feature bugs by 95% with over 100 automated unit and integration tests using Github Actions"
         ]
     },
     {
@@ -19,8 +28,9 @@ const ExperienceList = [
         "endDate": "Present",
         "location": "La Jolla, CA",
         "points": [
-            "Courses: First Year Experience",
-            "Leading and mentoring 40 first year students in discussion sections and office hours to foster student development"
+            "Teaching and leading 2 sections for First Year Experience to provide campus resources and general guidance",
+            "Supporting over 30 students in 40+ office hours for professional and academic advice, referring specific resources",
+            "Assisting fellow discussion leaders with content and material by providing powerpoints and day plans in advance"
         ]
     },
     {
@@ -31,7 +41,7 @@ const ExperienceList = [
         "location": "Barrington, RI",
         "points": [
             "Co-founded an organization with 3 peers to virtually teach programming basics to over 600 students globally",
-            "Tutored over 100 students on their final projects to guide and help with API use, design, structure, and syntax",
+            "Tutored over 100 students on their final projects to guide and help with API use, OOD, structure, and syntax",
             "Co-developed several interactive Java programs by pair programming to provide practical examples of concepts"
         ]
     }
