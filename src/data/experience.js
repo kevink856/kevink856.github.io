@@ -25,7 +25,7 @@ const ExperienceList = [
         "title": "Instructional Assistant",
         "company": "UC San Diego",
         "startDate": "May 2023",
-        "endDate": "Present",
+        "endDate": "Dec 2023",
         "location": "La Jolla, CA",
         "points": [
             "Teaching and leading 2 sections for First Year Experience to provide campus resources and general guidance",
