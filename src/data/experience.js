@@ -13,7 +13,7 @@ const ExperienceList = [
         "title": "Lead Software Engineer",
         "company": "UCSD CSES WebDev",
         "startDate": "Aug 2023",
-        "endDate": "Present",
+        "endDate": "Dec 2023",
         "location": "La Jolla, CA",
         "points": [
             "Leading a team of 5 developers and designers for WebDev's website using React, Python and PostgreSQL",
