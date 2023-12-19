@@ -11,14 +11,14 @@ const ExperienceList = [
     },
     {
         "title": "Lead Software Engineer",
-        "company": "UCSD CSES WebDev",
+        "company": "CSES WebDev",
         "startDate": "Aug 2023",
         "endDate": "Dec 2023",
         "location": "La Jolla, CA",
         "points": [
-            "Leading a team of 5 developers and designers for WebDev's website using React, Python and PostgreSQL",
-            "Ensuring security for AWS S3 and RDS services by configuring VPC subnets to internal dev and prod scopes",
-            "Reducing feature bugs by 95% with over 100 automated unit and integration tests using Github Actions"
+            "Led a team of 5 developers and designers for CSES WebDev's website using React, Python and PostgreSQL",
+            "Ensured security for AWS S3 and RDS services by configuring VPC subnets to internal dev and prod scopes",
+            "Reduced feature bugs by 95% with over 100 automated unit and integration tests using Github Actions"
         ]
     },
     {
@@ -28,9 +28,9 @@ const ExperienceList = [
         "endDate": "Dec 2023",
         "location": "La Jolla, CA",
         "points": [
-            "Teaching and leading 2 sections for First Year Experience to provide campus resources and general guidance",
-            "Supporting over 30 students in 40+ office hours for professional and academic advice, referring specific resources",
-            "Assisting fellow discussion leaders with content and material by providing powerpoints and day plans in advance"
+            "Taught and led 2 sections for First Year Experience to provide first years campus resources and general guidance",
+            "Supported over 30 students in 40+ office hours for professional and academic advice, referring specific resources",
+            "Assisted fellow discussion leaders with content and material by providing powerpoints and day plans in advance"
         ]
     },
     {
