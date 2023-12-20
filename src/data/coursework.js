@@ -12,7 +12,7 @@ const Coursework = [
     {
         'code': '[CSE 130]',
         'title': 'Programming Languages',
-        'grade': 'N/A'
+        'grade': 'A'
     },
     {
         'code': '[CSE 123]',
@@ -27,12 +27,12 @@ const Coursework = [
     {
         'code': '[CSE 110]',
         'title': 'Software Engineering',
-        'grade': 'N/A'
+        'grade': 'A'
     },
     {
         'code': '[CSE 101]',
         'title': 'Advanced Algorithms',
-        'grade': 'N/A'
+        'grade': 'B'
     },
     {
         'code': '[CSE 105]',
