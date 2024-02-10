@@ -1,12 +1,14 @@
 const ExperienceList = [
     {
-        "title": "Systems Security Engineering Intern",
+        "title": "System and Security Engineering Intern",
         "company": "TrustThink",
         "startDate": "Jan 2024",
         "endDate": "June 2024",
         "location": "San Diego, CA",
         "points": [
-            "Incoming intern for Winter 2024 and Spring 2024"
+            "Developing an ROS2 cryptographic API in C/C++ and OpenSSL that supports authentication, encryption, etc",
+            "Providing easy API integration for developers with an SDK in C++ along with an emulator for example usage",
+            "Enabling secure connection and communication between nodes with the DDS protocol and a standalone PKI"
         ]
     },
     {
