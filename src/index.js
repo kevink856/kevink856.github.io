@@ -3,7 +3,7 @@ import './styles/index.css';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider } from "react-router-dom";
 
 // Import Components
 import BlogHome from './components/BlogHome.js';
@@ -14,7 +14,7 @@ import Blog from './components/Blogs.js'
 const routes = [
     // Lists site URL endpoints and the respective pages to load
     {
-        path: "/",
+        path: "/*",
         element: <LandingPage />,
     },
     {
@@ -32,7 +32,7 @@ const routes = [
 ];
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-const router = createBrowserRouter(routes, { basename: "/" });
+const router = createHashRouter(routes);
 
 // Render entire app, and use StrictMode to prevent bad compiling
 root.render(
