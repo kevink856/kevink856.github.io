@@ -14,6 +14,11 @@
     margin-top: 50px;
 }
 
+.experience-content-override {
+    margin: 0;
+    align-items: center;
+}
+
 .blogContainer {
     background-color: rgb(241, 241, 241);
     font-weight: 500;
@@ -32,7 +37,7 @@
 }
 
 .blog {
-    width: 40vw;
+    width: 30vw;
     border: solid 3px rgb(20, 20, 20);
     border-radius: 20px;
     text-decoration: none;

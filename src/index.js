@@ -3,7 +3,7 @@ import './styles/index.css';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
-import { createHashRouter, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider, Outlet } from "react-router-dom";
 
 // Import Components
 import BlogHome from './components/BlogHome.js';
@@ -32,14 +32,14 @@ const routes = [
 ];
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-const router = createHashRouter(routes);
+const router = createHashRouter(routes, { basename: "/" });
 
 // Render entire app, and use StrictMode to prevent bad compiling
 root.render(
   <React.StrictMode>
-    <RouterProvider
-      router = {router}
-    />
+    <RouterProvider router = {router}>
+        <Outlet />
+    </RouterProvider>
   </React.StrictMode>
 );
 

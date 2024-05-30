@@ -1,22 +1,22 @@
 import '../styles/Navbar.css';
 
-import { Link } from 'react-router-dom';
+import { HashLink } from 'react-router-hash-link';
 
 function Navbar() {
 	return(
 		<header id='nav' className="navbar">
-			<Link to="/#home" className='navbar-link'>
+			<HashLink to="/#home" className='navbar-link'>
 				Home
-			</Link>
-			<Link to="/#about" className='navbar-link'>
+			</HashLink>
+			<HashLink to="/#about" className='navbar-link'>
 				About
-			</Link>
-			<Link to="/#experience" className='navbar-link'>
+			</HashLink>
+			<HashLink to="/#experience" className='navbar-link'>
 				Experience
-			</Link>
-			<Link to="/#projects" className='navbar-link'>
+			</HashLink>
+			<HashLink to="/#projects" className='navbar-link'>
 				Projects
-			</Link>
+			</HashLink>
 		</header>
 	);
 }
