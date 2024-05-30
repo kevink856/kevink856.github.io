@@ -1,5 +1,11 @@
 const ProjectList = [
     {
+        "title": "Pathtracer",
+        "stack": "C++, Embree, glm, lodepng",
+        "desc": "Monte Carlo pathtracer with direct / indirect lighting and importance sampling, with photon mapping features.",
+        "website": "/blogs/pathtracer"
+    },
+    {
         "title": "CSES WebDev Website",
         "stack": "ReactJS, Django, PostgreSQL, AWS (S3, RDS, CloudFormation)",
         "desc": "CSES WebDev's main website, housing all relevant information about past and current projects, and about involvement.",
