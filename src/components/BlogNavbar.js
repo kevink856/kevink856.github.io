@@ -1,14 +1,16 @@
 import '../styles/Navbar.css';
 
+import { Link } from 'react-router-dom';
+
 function BlogNavbar() {
 	return(
 		<header id='nav' className="navbar">
-			<a className='navbar-link' href="/">
+			<Link to="/" className='navbar-link'>
 				Home
-			</a>
-			<a className='navbar-link' href="/blogs">
+			</Link>
+			<Link to="/blogs" className='navbar-link'>
 				Blogs
-			</a>
+			</Link>
 		</header>
 	);
 }

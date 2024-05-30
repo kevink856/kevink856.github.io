@@ -14,7 +14,7 @@ import Blog from './components/Blogs.js'
 const routes = [
     // Lists site URL endpoints and the respective pages to load
     {
-        path: "/*",
+        path: "/",
         element: <LandingPage />,
     },
     {
