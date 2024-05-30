@@ -42,4 +42,4 @@ The outline of the area light can be seen, and all of the white dots represent a
 ---
 
 
-Besides the components of the rendering equation, what needs to still be implemented is a kd-tree to efficiently retrieve stored photon hits when computing density (currently, all photon hits are being traversed linearly at every pixel-hit), and a bounce/absorption mechanism for diffuse and specular separately, which will allow things like caustic maps (specular bounces only).
+Besides the components of the rendering equation, what needs to still be implemented is a kd-tree to efficiently retrieve stored photon hits when computing density (currently, all photon hits are being traversed linearly at every pixel-hit), allowing testing with more photons and more bounces.
