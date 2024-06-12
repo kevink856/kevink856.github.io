@@ -1,5 +1,7 @@
 # Photon Mapping
 
+*With reference to [Realistic Image Synthesis Using Photon Mapping](http://graphics.ucsd.edu/~henrik/papers/book/) and [kdtree2](https://github.com/jmhodges/kdtree2)*
+
 ![caustics](https://i.imgur.com/S2vsZ0N.png)
 > 1 million photons, k = 200, ~26 minutes to render
 
@@ -41,9 +43,14 @@ There are a few other parameters to consider. First and most obvious is the numb
 > 100k photons, k = 200, ~8 minutes to render
 
 ![spheres_10k](https://i.imgur.com/phhbF81.png)
-> 10k photons, k = 200, ~8 minutes to render
+> 10k photons, k = 200, ~6 minutes to render
 
 ---
 
-Finding the k-nearest neighbors in a kd-tree to gather nearby photons for radiance estimation also reveals the importance in picking k. Too high of a number and this approximation is essentially meaningless as it will consider too much light around each pixel, but too few and artifacts will appear as if the scene is underwater, since each pixel can't gather similar densities of photons:
+Finding the k-nearest neighbors in a kd-tree to gather nearby photons for radiance estimation also reveals the importance in picking k. Too high of a number and this approximation is essentially meaningless as it will consider too much light around each pixel, but too few and blotches will appear as if the scene is underwater, since each pixel can't gather similar densities of photons:
 
+![k100](https://i.imgur.com/GBoxzbo.png)
+> 1m photons, k = 100, ~8 minutes to render
+
+![k50](https://i.imgur.com/MP9RPmO.png)
+> 1m photons, k = 50, ~5 minutes to render
