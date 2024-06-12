@@ -6,9 +6,10 @@ const ExperienceList = [
         "endDate": "June 2024",
         "location": "San Diego, CA",
         "points": [
-            "Developing an ROS2 cryptographic API in C/C++ and OpenSSL that supports authentication, encryption, etc",
-            "Providing easy API integration for developers with an SDK in C++ along with an emulator for example usage",
-            "Enabling secure connection and communication between nodes with the DDS protocol and a standalone PKI"
+            "Developing a FIPS 140-3 cryptographic API in C++ and OpenSSL that supports encryption, authentication, etc",
+            "Utilizing UART and TLS protocols to provide a security interface in C between an STM32 MCU and software",
+            "Ensuring 100% test code coverage for all libraries with GoogleTest for units and FuzzTest for memory checks",
+            "Maintaining a pen-test environment in Kali with clang-tidy, Valgrind and Binwalk for static and dynamic analysis"
         ]
     },
     {

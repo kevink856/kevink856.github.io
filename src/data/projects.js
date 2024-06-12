@@ -3,7 +3,13 @@ const ProjectList = [
         "title": "Pathtracer",
         "stack": "C++, Embree, glm, lodepng",
         "desc": "Monte Carlo pathtracer with direct / indirect lighting and importance sampling, with photon mapping features.",
-        "website": "/blogs/pathtracer"
+        "website": "/blogs/pathtracer_done"
+    },
+    {
+        "title": "Lifesaver",
+        "stack": "C#, Unity, Meta XR SDK",
+        "desc": "MR app for navigating sites with hazardous AQI through passthrough, voice recognition, hand tracking and more.",
+        "website": "https://www.youtube.com/watch?v=RXyivbpIYBw&list=PLCbqBY8nKf4mvZIaf7zPs3VhNzLaXNbob&index=10"
     },
     {
         "title": "CSES WebDev Website",
@@ -17,13 +23,6 @@ const ProjectList = [
         "stack": "Python, pandas, R, ExpressJS, MongoDB, AWS (EC2)",
         "desc": "ELO system for college football teams based on 2014-Current performance, projecting power rankings and win percentages.",
         "website": "http://eloedge.s3-website-us-west-1.amazonaws.com/"
-    },
-    {
-        "title": "communifyy",
-        "stack": "ReactJS, ExpressJS, MongoDB, AWS (Lambda)",
-        "desc": "Web app that displays user's listening stats on Spotify, along with compared stats to other users.",
-        "github": "https://github.com/kevink856/communifyy",
-        "website": "https://kevink856.github.io/communifyy"
     },
     {
         "title": "Graphical Sort",
