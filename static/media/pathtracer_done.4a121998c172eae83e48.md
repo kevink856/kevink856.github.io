@@ -1,7 +1,5 @@
 # Photon Mapping
 
-*With reference to [Realistic Image Synthesis Using Photon Mapping](http://graphics.ucsd.edu/~henrik/papers/book/) and [kdtree2](https://github.com/jmhodges/kdtree2)*
-
 ![caustics](https://i.imgur.com/S2vsZ0N.png)
 > 1 million photons, k = 200, ~26 minutes to render
 
@@ -54,3 +52,7 @@ Finding the k-nearest neighbors in a kd-tree to gather nearby photons for radian
 
 ![k50](https://i.imgur.com/MP9RPmO.png)
 > 1m photons, k = 50, ~5 minutes to render
+
+---
+
+*With reference to [Realistic Image Synthesis Using Photon Mapping](http://graphics.ucsd.edu/~henrik/papers/book/) and [kdtree2](https://github.com/jmhodges/kdtree2)*
