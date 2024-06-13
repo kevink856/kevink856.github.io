@@ -1,6 +1,6 @@
 import '../styles/About.css';
 
-import { Link } from 'react-router-dom';
+//import { Link } from 'react-router-dom';
 import { useState } from 'react';
 import { FaBars } from 'react-icons/fa';
 
@@ -41,8 +41,8 @@ function About() {
                         networks, graphics and game development.
 					</p>
 					<p className='about-section'>
-						Downloads: <Link className='download' to='Kevin_Kim_Resume.pdf' target='_blank' download>Resume</Link>,
-						<Link className='download' to='academichistoryreviewpdf.pdf' target='_blank' download='Kevin_Kim_Transcript.pdf'> Transcript</Link>
+						Downloads: <a className='download' href='Kevin_Kim_Resume.pdf' download>Resume</a>,
+						<a className='download' href='academichistoryreviewpdf.pdf' download='Kevin_Kim_Transcript.pdf'> Transcript</a>
 					</p>
                     <p className='about-section' style={{ display: 'flex' }}>
                         <button onClick={dropdown} className='dropdown-button'>
