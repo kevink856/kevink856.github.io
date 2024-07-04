@@ -2,7 +2,7 @@ const Coursework = [
     {
         'code': '[CSE 168]',
         'title': 'Advanced Graphics',
-        'grade': 'N/A'
+        'grade': 'A'
     },
     {
         'code': '[CSE 167]',
@@ -12,6 +12,21 @@ const Coursework = [
     {
         'code': '[CSE 165]',
         'title': '3D Interaction/VR',
+        'grade': 'A+'
+    },
+    {
+        'code': '[CSE 158R]',
+        'title': 'Recommender Systems/Web Mining',
+        'grade': 'N/A'
+    },
+    {
+        'code': '[CSE 156]',
+        'title': 'Statistical NLP',
+        'grade': 'N/A'
+    },
+    {
+        'code': '[CSE 152A]',
+        'title': 'Computer Vision',
         'grade': 'N/A'
     },
     {
@@ -27,7 +42,7 @@ const Coursework = [
     {
         'code': '[CSE 127]',
         'title': 'Computer Security',
-        'grade': 'N/A'
+        'grade': 'A-'
     },
     {
         'code': '[CSE 123]',
