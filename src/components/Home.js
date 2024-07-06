@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { TypeAnimation } from 'react-type-animation';
 import { IconContext } from 'react-icons';
 import { FaGithub, FaLinkedin, FaEnvelope, FaAngleDown } from 'react-icons/fa';
+import { HashLink } from 'react-router-hash-link';
 
 function Home() {
 	return(
