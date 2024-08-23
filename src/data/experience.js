@@ -4,10 +4,12 @@ const ExperienceList = [
         "company": "Falkor",
         "startDate": "July 2024",
         "endDate": "Aug 2024",
-        "location": "Remote, CA",
+        "location": "San Diego, CA",
         "points": [
-            "Creating recommendation systems in Python and Postgres with 3000+ parameters such as keywords, tags, etc",
-            "Migrating model-view-template app into an isolated Django REST API backend and React Native frontend"
+            "Created recommendation system using cosine similarity in Django and numpy with 6000+ keyword parameters",
+            "Migrated 10000+ LOC MVT site into React Native frontend and DRF API, cutting resource costs by 50%",
+            "Implemented secure real-time chat rooms with Channels websockets using sanitized messages and rate limiting",
+            "Built CI/CD pipeline with GitHub Actions and exposed each stack to domains with an nginx reverse proxy"
         ]
     },
     {
