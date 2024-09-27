@@ -32,13 +32,13 @@ function About() {
 			<div className='content'>
 				<span id='text'>
 					<p className='about-section'>
-						I'm a junior undergraduate student at UC San Diego studying
-						Computer Science, looking for internship experience before I
-                        graduate on June 2025.
+						I'm a senior undergraduate student at UC San Diego studying
+						Computer Science, looking for a full time software engineering position
+                        before I graduate on June 2025.
 					</p>
 					<p className='about-section'>
-						Currently, I'm learning skills and technologies for AI/ML,
-                        networks, graphics and game development.
+						Currently, I'm learning skills and technologies for AI/ML/NLP,
+                        networks, graphics and more.
 					</p>
 					<p className='about-section'>
 						Downloads: <a className='download' href='Kevin_Kim_Resume.pdf' download>Resume</a>,
