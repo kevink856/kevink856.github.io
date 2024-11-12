@@ -1,5 +1,15 @@
 const ExperienceList = [
     {
+        "title": "Software Engineer",
+        "company": "Arista Networks",
+        "startDate": "June 2025",
+        "endDate": "Current",
+        "location": "Santa Clara, CA",
+        "points": [
+            "Incoming SWE @ Arista in Summer 2025"
+        ]
+    },
+    {
         "title": "Software Engineering Intern",
         "company": "Falkor",
         "startDate": "July 2024",
