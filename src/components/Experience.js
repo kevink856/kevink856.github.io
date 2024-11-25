@@ -15,10 +15,10 @@ function Experience() {
                                 <p className='experience-content'>
                                     <p className='experience-header'>
                                         <p className='experience-heading-1'>
-                                            {experience.title}
+                                            {experience.company}
                                         </p>
                                         <p className='experience-heading-2'>
-                                            {experience.company} - {experience.location}
+                                            {experience.title} - {experience.location}
                                         </p>
                                         <p className='experience-heading-3'>
                                             {experience.startDate} - {experience.endDate}
