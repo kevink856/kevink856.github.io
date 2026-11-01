@@ -6,7 +6,7 @@ const ExperienceList = [
         "endDate": "Current",
         "location": "Santa Clara, CA",
         "points": [
-            "Incoming SWE Summer 2025"
+            "Working on switch platform code generation, dynamic switch speed change, cross-OS test framework"
         ]
     },
     {
